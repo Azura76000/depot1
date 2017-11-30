@@ -1,0 +1,47 @@
+[33mcommit b6418b038cd41e54f1502ba88625d05eacd9a5f3[m[33m ([m[1;36mHEAD -> [m[1;32mcreation-article[m[33m)[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 12:11:40 2017 +0100
+
+    test
+
+[33mcommit 0c713f50ec01c664d313ac365658c9efb500675d[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 12:06:41 2017 +0100
+
+    Ajout de contenue
+
+[33mcommit f96d587b21836a5a6cf8943282ef78cb7dc3d8e2[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 11:14:09 2017 +0100
+
+    Suppression des fichier qui servent a rien
+
+[33mcommit 3c67def4e8b63592356fb3970c6f6535d1b6e3bc[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 11:11:33 2017 +0100
+
+    Ajout de fichier
+
+[33mcommit 0764fddac438963097616758ac9d6f8490ac268f[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 10:40:50 2017 +0100
+
+    commit de mise a jour pour la stash
+
+[33mcommit 5495621e4d33d6e04c9510417c09e1f83becebb8[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 09:58:02 2017 +0100
+
+    Commit de test pour gitignore
+
+[33mcommit b8a30117951d728e02b3bf8c2a353ee324602d99[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 09:55:44 2017 +0100
+
+    Mise a jour
+
+[33mcommit 6c4b72f87906aa58df716dd9241edbbd7eca69eb[m
+Author: thomasc <thomas.chemin@linkt.fr>
+Date:   Thu Nov 30 09:52:46 2017 +0100
+
+    Premier commit
